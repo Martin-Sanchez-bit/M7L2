@@ -1,0 +1,7 @@
+0 shih_tzu
+1 pit_bull
+2 beagle
+3 bulldog
+4 pastor_Aleman
+5 chihuahua
+6 Labrador
